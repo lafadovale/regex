@@ -6,3 +6,6 @@ IP Address
 
 Bitcoin Address
 1[A-Za-z0-9]{33}
+
+URL Address
+https?:\/\/[a-z\.\/\?=&]+
