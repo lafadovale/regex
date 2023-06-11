@@ -9,3 +9,6 @@ Bitcoin Address
 
 URL Address
 https?:\/\/[a-z\.\/\?=&]+
+
+Extracting data from JSON files
+\"userAgent\":\"(.*)\",\"country
