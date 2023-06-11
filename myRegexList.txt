@@ -12,3 +12,6 @@ https?:\/\/[a-z\.\/\?=&]+
 
 Extracting data from JSON files
 \"userAgent\":\"(.*)\",\"country
+
+Extracting data from XML files
+<postalCode>([0-9A-Z- ]{1,15})<\/postalCode>
